@@ -11,9 +11,9 @@
 
 <br />
 
-<div align="center">
+<a href="https://rogeriofrsouza.github.io/gmail-signature/" align="center">
   <img src="https://user-images.githubusercontent.com/77423511/145431561-fb95fd16-f453-481b-9276-cf092bcf689c.png" alt="Project image" />
-</div>
+</a>
 
 ## Setup Signature
 
