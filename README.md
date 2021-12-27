@@ -1,23 +1,31 @@
-<h1>
+<h1 align="center">
   Gmail Signature 
   <img width="40" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" align="center">
 </h1>
+
+<p align="center">
+  <a href="https://rogeriofrsouza.github.io/gmail-signature/" target="_blank">Page</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-setup-signature">Setup</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
+
+<div align="center">
+  <a href="https://rogeriofrsouza.github.io/gmail-signature/">
+    <img src="https://user-images.githubusercontent.com/77423511/145431561-fb95fd16-f453-481b-9276-cf092bcf689c.png" alt="Project image" widht="50%"/>
+  </a>
+</div>
+
+## 💻 Project
 
 - Most elegant looking Gmail Signature in the world 🌎
 
 - Forked from 🐈 [Sk Arif](https://github.com/skarif2)'s amazing [gmail-signature](https://github.com/skarif2/gmail-signature) 👨‍💻
 
-- My project: <a href="https://rogeriofrsouza.github.io/gmail-signature/">Click here</a> 🖱️
+<br>
 
-<br />
 
-<div align="center">
-  <a href="https://rogeriofrsouza.github.io/gmail-signature/">
-    <img src="https://user-images.githubusercontent.com/77423511/145431561-fb95fd16-f453-481b-9276-cf092bcf689c.png" alt="Project image"/>
-  </a>
-</div>
-
-## Setup Signature
+## 🚀 Setup Signature
 
 - Clone the repository
 ```sh
@@ -34,9 +42,14 @@ $ git clone git@github.com:skarif2/gmail-signature.git
 
 **Note:** There is a limit of 10,000 characters in Gmail Signature. Make sure you don't add too much stuff :wink:
 
-## License
+<br>
+
+## 📝 License
 
 This repository is available under the [MIT license](https://github.com/skarif2/gmail-signature/blob/master/LICENSE).
 
+<br>
+
 ---
+
 <h4 align="center">Made with&nbsp; 💖 &nbsp;by Sk Arif.</h4>
